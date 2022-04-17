@@ -1,0 +1,5 @@
+Migration: Samuel
+LoginController: Dio
+View home: Azmi
+View menu: Surya
+Route: Taufiq
